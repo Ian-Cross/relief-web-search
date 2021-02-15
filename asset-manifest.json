@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.14dbaaea.chunk.js",
-    "main.js.map": "/static/js/main.14dbaaea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63b55725.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63b55725.js.map",
-    "static/js/2.42da8a76.chunk.js": "/static/js/2.42da8a76.chunk.js",
-    "static/js/2.42da8a76.chunk.js.map": "/static/js/2.42da8a76.chunk.js.map",
-    "static/js/3.7476d779.chunk.js": "/static/js/3.7476d779.chunk.js",
-    "static/js/3.7476d779.chunk.js.map": "/static/js/3.7476d779.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.42da8a76.chunk.js.LICENSE.txt": "/static/js/2.42da8a76.chunk.js.LICENSE.txt"
+    "main.js": "/relief-web-search/static/js/main.14dbaaea.chunk.js",
+    "main.js.map": "/relief-web-search/static/js/main.14dbaaea.chunk.js.map",
+    "runtime-main.js": "/relief-web-search/static/js/runtime-main.7ab3c638.js",
+    "runtime-main.js.map": "/relief-web-search/static/js/runtime-main.7ab3c638.js.map",
+    "static/js/2.42da8a76.chunk.js": "/relief-web-search/static/js/2.42da8a76.chunk.js",
+    "static/js/2.42da8a76.chunk.js.map": "/relief-web-search/static/js/2.42da8a76.chunk.js.map",
+    "static/js/3.7476d779.chunk.js": "/relief-web-search/static/js/3.7476d779.chunk.js",
+    "static/js/3.7476d779.chunk.js.map": "/relief-web-search/static/js/3.7476d779.chunk.js.map",
+    "index.html": "/relief-web-search/index.html",
+    "static/js/2.42da8a76.chunk.js.LICENSE.txt": "/relief-web-search/static/js/2.42da8a76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63b55725.js",
+    "static/js/runtime-main.7ab3c638.js",
     "static/js/2.42da8a76.chunk.js",
     "static/js/main.14dbaaea.chunk.js"
   ]
